@@ -1,0 +1,365 @@
+﻿[
+  {
+    "nodes": [
+      {
+        "identity": -9,
+        "labels": [
+          "editor"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "editor",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -11,
+        "labels": [
+          "author"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "author",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -8,
+        "labels": [
+          "book"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "book",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -2,
+        "labels": [
+          "phdthesis"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "phdthesis",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -5,
+        "labels": [
+          "inproceedings"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "inproceedings",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -3,
+        "labels": [
+          "article"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "article",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -10,
+        "labels": [
+          "journal"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "journal",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -6,
+        "labels": [
+          "incollection"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "incollection",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -13,
+        "labels": [
+          "school"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "school",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -7,
+        "labels": [
+          "www"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "www",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -1,
+        "labels": [
+          "mastersthesis"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "mastersthesis",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -12,
+        "labels": [
+          "cite"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "cite",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -14,
+        "labels": [
+          "publisher"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "publisher",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -4,
+        "labels": [
+          "proceedings"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "proceedings",
+          "constraints": []
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "identity": -26,
+        "start": -3,
+        "end": -14,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -29,
+        "start": -8,
+        "end": -14,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -25,
+        "start": -2,
+        "end": -14,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -27,
+        "start": -4,
+        "end": -14,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -28,
+        "start": -6,
+        "end": -14,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -9,
+        "start": -2,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -12,
+        "start": -5,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -14,
+        "start": -7,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -11,
+        "start": -4,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -15,
+        "start": -8,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -10,
+        "start": -3,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -8,
+        "start": -1,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -13,
+        "start": -6,
+        "end": -11,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -23,
+        "start": -2,
+        "end": -13,
+        "type": "submitted_at",
+        "properties": {}
+      },
+      {
+        "identity": -22,
+        "start": -1,
+        "end": -13,
+        "type": "submitted_at",
+        "properties": {}
+      },
+      {
+        "identity": -24,
+        "start": -8,
+        "end": -13,
+        "type": "submitted_at",
+        "properties": {}
+      },
+      {
+        "identity": -17,
+        "start": -4,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -16,
+        "start": -3,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -21,
+        "start": -8,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -19,
+        "start": -6,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -18,
+        "start": -5,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -20,
+        "start": -7,
+        "end": -12,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -5,
+        "start": -8,
+        "end": -9,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -1,
+        "start": -3,
+        "end": -9,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -3,
+        "start": -5,
+        "end": -9,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -4,
+        "start": -7,
+        "end": -9,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -2,
+        "start": -4,
+        "end": -9,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -7,
+        "start": -4,
+        "end": -10,
+        "type": "published_in",
+        "properties": {}
+      },
+      {
+        "identity": -6,
+        "start": -3,
+        "end": -10,
+        "type": "published_in",
+        "properties": {}
+      }
+    ]
+  }
+]
