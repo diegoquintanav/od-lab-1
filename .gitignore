@@ -3,6 +3,10 @@ neo4j-installer
 notebooks/*output*
 notebooks/dblp*
 !notebooks/dblp-raw/dblp_slim.dtd
+OD-master/*
+OD-master.zip
+LAB-1-20200312T091503Z-001.zip
+LAB-1/*
 
 
 # Created by https://www.gitignore.io/api/git,code,linux,python,jupyternotebooks,vim
