@@ -1,6 +1,9 @@
-black==19.10b0
-flake8==3.7.9
 neo4j==1.7.6
 py2neo==4.3.0
+Faker==4.0.1
+
+# dev dependencies
+black==19.10b0
+flake8==3.7.9
 ipython
 
