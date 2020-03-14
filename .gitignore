@@ -1,7 +1,8 @@
 # local defined ignores
 neo4j-installer
 notebooks/*output*
-notebooks/dblp*
+notebooks/dblp-raw/*
+notebooks/dblp-csv/*
 !notebooks/dblp-raw/dblp_slim.dtd
 OD-master/*
 OD-master.zip
