@@ -1,0 +1,187 @@
+﻿[
+  {
+    "nodes": [
+      {
+        "identity": -4,
+        "labels": [
+          "editor"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "editor",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -6,
+        "labels": [
+          "journal"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "journal",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -7,
+        "labels": [
+          "author"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "author",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -5,
+        "labels": [
+          "publisher"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "publisher",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -8,
+        "labels": [
+          "cite"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "cite",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -3,
+        "labels": [
+          "proceedings"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "proceedings",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -1,
+        "labels": [
+          "inproceedings"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "inproceedings",
+          "constraints": []
+        }
+      },
+      {
+        "identity": -2,
+        "labels": [
+          "article"
+        ],
+        "properties": {
+          "indexes": [],
+          "name": "article",
+          "constraints": []
+        }
+      }
+    ],
+    "relationships": [
+      {
+        "identity": -5,
+        "start": -3,
+        "end": -5,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -4,
+        "start": -2,
+        "end": -5,
+        "type": "published_by",
+        "properties": {}
+      },
+      {
+        "identity": -8,
+        "start": -1,
+        "end": -7,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -9,
+        "start": -2,
+        "end": -7,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -10,
+        "start": -3,
+        "end": -7,
+        "type": "authored_by",
+        "properties": {}
+      },
+      {
+        "identity": -12,
+        "start": -2,
+        "end": -8,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -13,
+        "start": -3,
+        "end": -8,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -11,
+        "start": -1,
+        "end": -8,
+        "type": "has_citation",
+        "properties": {}
+      },
+      {
+        "identity": -1,
+        "start": -1,
+        "end": -4,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -3,
+        "start": -3,
+        "end": -4,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -2,
+        "start": -2,
+        "end": -4,
+        "type": "edited_by",
+        "properties": {}
+      },
+      {
+        "identity": -7,
+        "start": -3,
+        "end": -6,
+        "type": "published_in",
+        "properties": {}
+      },
+      {
+        "identity": -6,
+        "start": -2,
+        "end": -6,
+        "type": "published_in",
+        "properties": {}
+      }
+    ]
+  }
+]
