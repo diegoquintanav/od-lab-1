@@ -39,6 +39,7 @@ services:
       - NEO4J_dbms_security_procedures_unrestricted=apoc.\\\*
       - NEO4J_apoc_import_file_enabled=true
       - NEO4J_apoc_json_myjson_url=file://s2-corpus-slim.json
+      - NEO4J_apoc_json_myjson__github_url=https://raw.githubusercontent.com/diegoquintanav/od-lab-1/master/notebooks/semantic-scholar-raw/s2-corpus-slim.json
 
   # core2:
   #   image: neo4j:3.5-enterprise
