@@ -1,6 +1,8 @@
 neo4j==1.7.6
 py2neo==4.3.0
 Faker==4.0.1
+ipython-cypher
+jupyter-lab
 
 # dev dependencies
 black==19.10b0
