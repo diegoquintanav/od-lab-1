@@ -5,7 +5,7 @@ notebooks/dblp-raw/*
 notebooks/dblp-csv/*
 !notebooks/dblp-raw/dblp_slim.dtd
 notebooks/semantic-scholar-raw/s2-corpus-00*
-notebooks/semantic-scholar-raw/s2-corpus-clean.tmp
+notebooks/semantic-scholar-raw/s2-corpus-clean.*
 OD-master/*
 OD-master.zip
 LAB-1-20200312T091503Z-001.zip
